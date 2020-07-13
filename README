@@ -1,4 +1,4 @@
-See the names and codepoints of unicode characters.
+Print the codepoints and names of unicode characters.
 
 ./runes.py … °
 echo é ☂ | ./runes.py

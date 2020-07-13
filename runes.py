@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 """
-Show the codepoint, name and UTF-8 bytes
+Print the codepoint, name and UTF-8 bytes
 of each unicode character in command line arguments or standard input.
 """
 
