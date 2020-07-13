@@ -1,1 +1,4 @@
 See the names and codepoints of unicode characters.
+
+./runes.py … °
+echo é ☂ | ./runes.py
